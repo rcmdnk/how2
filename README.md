@@ -57,6 +57,9 @@ You can use `-l lang` to find answers for other languages:
 
 ![-l python](https://raw.githubusercontent.com/santinic/how2/master/img/python.png)
 
+If you give `es`, `ja`, `pt` or `ru`,
+how2 searches other language stackoverflow site, e.g. es.stackoverflo.com.
+
 ## Copy-Paste with mouse
 When you are in "interactive mode" (after you press SPACE), if you want to copy-paste more than one line you can use block-select:
 
